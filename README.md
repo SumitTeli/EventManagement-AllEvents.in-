@@ -66,7 +66,7 @@ or
 
 ## Demo
 
-![yt thum](https://youtu.be/ov_x0bc8f_I)
+![yt thum](https://youtu.be/ov_x0bc8f_I).
 
 
 
