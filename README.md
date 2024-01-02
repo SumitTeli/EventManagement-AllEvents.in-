@@ -1,8 +1,88 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Event Management System
 
-Currently, two official plugins are available:
+This project allows users to log in using their Gmail accounts and create events with essential details such as event name, start time, end time, location, description, category, and banner image. It also provides a filtering feature for a listing page to view events based on date, city, and category.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+## Features
+
+- User Authentication: Users can log in using their Gmail accounts.
+- Create Events: Users can create events with details like event name, timing, location, and more.
+- Filtering Options: Filter events based on date, city, and category.
+- Category Management: Ability to add and view event categories.
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/SumitTeli/EventManagement-AllEvents.in-
+```
+
+Ensure you have the following installed:
+
+Node.js : https://nodejs.org/en
+
+PHP :https://www.php.net/
+
+XAMPP :https://www.apachefriends.org/ 
+
+- Start the XAMPP server, turn on Apache and MySQL services.
+
+
+- Create a new folder inside xampp\htdocs\reactcurdphp and paste the api folder there.
+
+- Open MySQL database from XAMPP, create a database named eventmanage, and import the provided database file.
+
+- Open the project in VSCode or any editor of your choice.
+
+Go to the project directory
+
+```bash
+  cd EventManagement-AllEvents
+```
+
+
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+or
+```bash
+  npm run dev
+```
+
+
+## Demo
+![yt thum](https://github.com/SumitTeli/EventManagement-AllEvents.in-/assets/87744199/f06577dc-f27e-4397-867f-3856c632aaa8)
+
+
+[Click here](https://youtu.be/ov_x0bc8f_I)
+
+
+
+## Tech Stack
+
+**Client:** React, Bootstrap 
+
+**Server:** PHP
+
+**Database:** Mysql
+
+
+
+## Author
+
+- [@SumitTeli](https://github.com/SumitTeli)
+
