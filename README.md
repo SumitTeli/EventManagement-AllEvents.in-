@@ -65,8 +65,10 @@ or
 
 
 ## Demo
+![yt thum](https://github.com/SumitTeli/EventManagement-AllEvents.in-/assets/87744199/f06577dc-f27e-4397-867f-3856c632aaa8)
 
-![yt thum](https://youtu.be/ov_x0bc8f_I).
+
+[Click here](https://youtu.be/ov_x0bc8f_I)
 
 
 
