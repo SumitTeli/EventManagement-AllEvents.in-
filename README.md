@@ -66,7 +66,7 @@ or
 
 ## Demo
 
-[https://www.youtube.com/watch?v=IybPdzCjZ2I&ab_channel=TbOne](https://youtu.be/ov_x0bc8f_I)
+[Click here to see demo](https://youtu.be/ov_x0bc8f_I)
 
 
 ## Tech Stack
