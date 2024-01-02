@@ -1,0 +1,36 @@
+/* Home.css */
+
+/* Set the carousel to cover the entire viewport */
+.carousel {
+  width: 100vw; /* Set width to cover the full viewport width */
+  height: calc(100vh - 60px); /* Adjust the height to exclude any header/footer heights */
+  overflow: hidden; /* Hide any overflow content */
+  position: relative; /* Set position to relative for absolute positioning of child elements */
+}
+
+/* Style for the carousel images */
+.event-image {
+  width: 100%; /* Set the image width to fill the carousel */
+  height: auto; /* Allow the height to adjust based on the image's original aspect ratio */
+  min-width: 100%; /* Ensure the image covers the entire width */
+  min-height: 100%; /* Ensure the image covers the entire height */
+  object-fit: contain; /* Ensure entire image is visible without cropping */
+}
+
+/* Style for the caption (event name) */
+.carousel-caption {
+  position: absolute; /* Position the caption absolutely */
+  bottom: 0; /* Align the caption to the bottom */
+  left: 0; /* Align the caption to the left */
+  width: 100%; /* Set width to match the carousel */
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent background for readability */
+  color: white; /* Text color */
+  text-align: center; /* Center-align the caption */
+  padding: 10px; /* Add padding */
+}
+
+/* Style for event name in the caption */
+.carousel-caption h3 {
+  cursor: pointer; /* Show pointer cursor on hover for clickability */
+  margin: 0; /* Remove margin for cleaner appearance */
+}
