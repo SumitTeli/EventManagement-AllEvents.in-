@@ -66,9 +66,8 @@ or
 
 ## Demo
 
-![yt thum](https://github.com/SumitTeli/EventManagement-AllEvents.in-/assets/87744199/07ba3ff4-3f83-4a3c-aec7-465d24cd3a70)
+![yt thum](https://youtu.be/ov_x0bc8f_I)
 
-[Click here to see demo](https://youtu.be/ov_x0bc8f_I)
 
 
 ## Tech Stack
